@@ -1,0 +1,7 @@
+ofxFft
+ofxFirstPersonCamera
+ofxOsc
+ofxPostGlitch
+ofxSyphon
+ofxTwistedRibbon
+ofxVboParticles
